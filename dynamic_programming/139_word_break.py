@@ -20,3 +20,6 @@ class Solution(object):
                     break  # i번째 위치가 완성 가능함을 확인했으므로 다음 i로 넘어가도 됨
                     
         return dp[len(s)]
+    
+
+    #이거 다시 보기 !!!!!
